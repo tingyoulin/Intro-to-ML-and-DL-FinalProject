@@ -27,12 +27,12 @@ Determine the damage state (Undamaged/Damaged)
 
 ## Grading
 + Milestone (2%)
-...* beat early baseline on public leaderboard before 2019/12/11 22:00 (1% + 1%)
+   * beat early baseline on public leaderboard before 2019/12/11 22:00 (1% + 1%)
 + Baseline (12%):
-...* beat the public simple baseline score (1% + 1%)
-...* beat the private simple baseline score (1% + 1%)
-...* beat the public strong baseline score (2% + 2%)
-...* beat the private strong baseline score (2% + 2%)
+   * beat the public simple baseline score (1% + 1%)
+   * beat the private simple baseline score (1% + 1%)
+   * beat the public strong baseline score (2% + 2%)
+   * beat the private strong baseline score (2% + 2%)
 + Report (7%)
 + Rank (4%)
-...* private leaderboard score ranking (2% + 2%)
+   * private leaderboard score ranking (2% + 2%)
